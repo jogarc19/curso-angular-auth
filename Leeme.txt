@@ -1,0 +1,3 @@
+Ruta de la api:
+
+https://fake-trello-api.herokuapp.com/docs
